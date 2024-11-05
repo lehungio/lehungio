@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi, I'm lehungio! 👋
+![Whisper](https://github.com/images/mona-whisper.gif)
 
 Welcome to my GitHub profile! 🌟
 
