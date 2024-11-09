@@ -1,3 +1,4 @@
+[![Continuous integration](https://github.com/lehungio/lehungio/actions/workflows/metrics.yml/badge.svg)](https://github.com/lehungio/lehungio/actions/workflows/metrics.yml)
 <!--
 **lehungio/lehungio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
