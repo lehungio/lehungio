@@ -1,5 +1,6 @@
 [![Continuous integration](https://github.com/lehungio/lehungio/actions/workflows/metrics.yml/badge.svg)](https://github.com/lehungio/lehungio/actions/workflows/metrics.yml)
 <!--
+![Loading](https://github.githubassets.com/assets/mona-loading-default-c3c7aad1282f.gif)
 **lehungio/lehungio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
